@@ -1,0 +1,181 @@
+/*body{
+    font-size: 2em;
+    font-family: verdana;
+    text-align: center;
+}
+
+/*#myh3{
+    border: 2px black none;
+   
+    width: 190px;
+    padding: 10px;
+    height: 40px;
+   text-align: inherit;
+   margin: auto;
+    border-radius: 15px;
+}
+*/
+/*#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 4em;
+    font-family: heletica;
+}
+
+
+#btncontainer{
+    text-align: center;
+}
+
+.button{
+    padding: 10px 20px;
+    font-size: 0.7em;
+    color: white;
+   
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 1s;
+    text-decoration: none;
+     border: 1px solid #77aaaa;
+    background: linear-gradient(to bottom, #aadddd 0%, #77aaaa 100%);
+    background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+    background: -moz-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
+}
+
+.button:hover{
+   background: linear-gradient(to top, #aadddd 0%, #77aaaa 100%);
+    background: -webkit-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
+    background: -moz-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
+}*/
+
+
+
+/*body{
+    font-family: verdana;
+    text-align: center;
+}
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#mylabel{
+    font-size: 7em;
+    
+}*/
+
+/*#mysubmit{
+    font-size: 1em;
+}*/
+
+
+
+
+
+
+/*body{
+    font-family: arial, sans-serif;
+    background-color: rgb(190, 159, 159);
+}
+
+h1{
+    color: rgb(125, 125, 199);
+}
+
+form{
+    background-color: rgb(228, 215, 215);
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(19, 17, 17);
+}
+
+
+#textbox{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid rgba(0, 0, 0, 0.719);
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 15px;
+    background-color: rgb(255, 0, 0);
+    font-size: 1.5em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgba(36, 18, 136, 0.623);
+}
+
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}*/
+
+
+/* DICE GAME*/
+
+/*#container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(87, 48, 228);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+        background-color: rgb(93, 82, 196);
+}
+
+button:active{
+     background-color: rgb(48, 27, 107);
+}
+
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#diceresult{
+    margin: 25px;
+}
+
+#diceimage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 25px auto;
+  max-width: 600px;
+}
+
+#diceimage img {
+  width: 80px;
+}
+*/
